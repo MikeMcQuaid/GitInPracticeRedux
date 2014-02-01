@@ -1,2 +1,2 @@
 == Chapter 2
-// TODO: write two chapters
+Practice doesn't make perfect; perfect practice makes perfect!
