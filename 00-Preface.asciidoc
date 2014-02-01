@@ -1,1 +1,2 @@
 = Git In Practice
+Welcome to GIP v0.1.1.
