@@ -1,3 +1,2 @@
 = Git In Practice
-// Git Through Praxis?
-The hotly anticipated sequel to Git In Paris.
+The hotly anticipated sequel to Git Through Praxis.
